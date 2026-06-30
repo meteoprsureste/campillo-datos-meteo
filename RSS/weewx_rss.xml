@@ -7,36 +7,36 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>mar, 30 jun 2026 12:10:00 CEST</pubDate>
+      <pubDate>mar, 30 jun 2026 12:30:00 CEST</pubDate>
 
-      <lastBuildDate>mar, 30 jun 2026 12:10:00 CEST</lastBuildDate>
+      <lastBuildDate>mar, 30 jun 2026 12:30:00 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 30/06/26 12:10:00</title>
+         <title>Weather Conditions at 30/06/26 12:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-           Outside temperature: 31,7&#176;C; 
-           Barometer: 1019,4 mbar; 
+           Outside temperature: 32,8&#176;C; 
+           Barometer: 1019,2 mbar; 
            Wind: 0,0 m/s from    N/A; 
            Rain rate: 0,0 mm/hr; 
-           Inside temperature: 27,0&#176;C
+           Inside temperature: 26,5&#176;C
          </description>
-         <pubDate>mar, 30 jun 2026 12:10:00 CEST</pubDate>
+         <pubDate>mar, 30 jun 2026 12:30:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                30/06/26 12:10:00<br/>
-             Outside Temperature: 31,7&#176;C<br/>
-             Inside Temperature:  27,0&#176;C<br/>
-             Wind Chill:          31,7&#176;C<br/>
-             Heat Index:          31,7&#176;C<br/>
-             Dewpoint:            14,8&#176;C<br/>
-             Humidity:            36%<br/>
-             Barometer:           1019,4 mbar<br/>
+             Time:                30/06/26 12:30:00<br/>
+             Outside Temperature: 32,8&#176;C<br/>
+             Inside Temperature:  26,5&#176;C<br/>
+             Wind Chill:          32,8&#176;C<br/>
+             Heat Index:          32,8&#176;C<br/>
+             Dewpoint:            14,5&#176;C<br/>
+             Humidity:            33%<br/>
+             Barometer:           1019,2 mbar<br/>
              Wind:                0,0 m/s from    N/A<br/>
              Rain Rate:           0,0 mm/hr<br/>
         </p>
@@ -44,27 +44,27 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 30/06/26 12:10:00</title>
+         <title>Daily Weather Summary as of 30/06/26 12:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
 	        Min outside temperature: 21,4&#176;C at 07:11:16;
-         	Max outside temperature: 32,0&#176;C at 12:09:42;
-	        Min inside temperature:  26,8&#176;C at 12:09:00;
+         	Max outside temperature: 33,1&#176;C at 12:22:12;
+	        Min inside temperature:  26,5&#176;C at 12:26:00;
 	        Max inside temperature:  28,7&#176;C at 11:21:00;
 	        Min barometer:           1017,7 mbar at 00:06:02;
 	        Max barometer:           1020,3 mbar at 08:45:02;
             Max wind :               0,0 m/s from    N/A at 00:00:03;
             Rain today:              0,0 mm
          </description>
-         <pubDate>mar, 30 jun 2026 12:10:00 CEST</pubDate>
+         <pubDate>mar, 30 jun 2026 12:30:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     30 jun 2026<br/>
 	         Min Outside Temperature: 21,4&#176;C at 07:11:16<br/>
-	         Max Outside Temperature: 32,0&#176;C at 12:09:42<br/>
-	         Min Inside Temperature:  26,8&#176;C at 12:09:00<br/>
+	         Max Outside Temperature: 33,1&#176;C at 12:22:12<br/>
+	         Min Inside Temperature:  26,5&#176;C at 12:26:00<br/>
 	         Max Inside Temperature:  28,7&#176;C at 11:21:00<br/>
 	         Min Barometer:           1017,7 mbar at 00:06:02<br/>
 	         Max Barometer:           1020,3 mbar at 08:45:02<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 30/06/26 12:10:00</title>
+         <title>Monthly Weather Summary as of 30/06/26 12:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: 13,4&#176;C at 05/06/26 07:06:50;
@@ -87,7 +87,7 @@
             Max wind :               0,0 m/s from    N/A at 01/06/26 00:00:03;
             Rain total for month:    7,4 mm
          </description>
-         <pubDate>mar, 30 jun 2026 12:10:00 CEST</pubDate>
+         <pubDate>mar, 30 jun 2026 12:30:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   junio 2026<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 30/06/26 12:10:00</title>
+         <title>Yearly Weather Summary as of 30/06/26 12:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -116,7 +116,7 @@
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
             Rain total for year:     332,2 mm
          </description>
-         <pubDate>mar, 30 jun 2026 12:10:00 CEST</pubDate>
+         <pubDate>mar, 30 jun 2026 12:30:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
