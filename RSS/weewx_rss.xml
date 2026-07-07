@@ -7,36 +7,36 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>mar, 07 jul 2026 18:20:00 CEST</pubDate>
+      <pubDate>mar, 07 jul 2026 18:30:00 CEST</pubDate>
 
-      <lastBuildDate>mar, 07 jul 2026 18:20:00 CEST</lastBuildDate>
+      <lastBuildDate>mar, 07 jul 2026 18:30:00 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 07/07/26 18:20:00</title>
+         <title>Weather Conditions at 07/07/26 18:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-           Outside temperature: 35,8&#176;C; 
-           Barometer: 1015,0 mbar; 
+           Outside temperature: 35,2&#176;C; 
+           Barometer: 1015,5 mbar; 
            Wind: 0,0 m/s from    N/A; 
            Rain rate: 0,0 mm/hr; 
            Inside temperature: 28,0&#176;C
          </description>
-         <pubDate>mar, 07 jul 2026 18:20:00 CEST</pubDate>
+         <pubDate>mar, 07 jul 2026 18:30:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                07/07/26 18:20:00<br/>
-             Outside Temperature: 35,8&#176;C<br/>
+             Time:                07/07/26 18:30:00<br/>
+             Outside Temperature: 35,2&#176;C<br/>
              Inside Temperature:  28,0&#176;C<br/>
-             Wind Chill:          35,8&#176;C<br/>
-             Heat Index:          35,8&#176;C<br/>
-             Dewpoint:            8,5&#176;C<br/>
-             Humidity:            19%<br/>
-             Barometer:           1015,0 mbar<br/>
+             Wind Chill:          35,2&#176;C<br/>
+             Heat Index:          35,2&#176;C<br/>
+             Dewpoint:            6,7&#176;C<br/>
+             Humidity:            17%<br/>
+             Barometer:           1015,5 mbar<br/>
              Wind:                0,0 m/s from    N/A<br/>
              Rain Rate:           0,0 mm/hr<br/>
         </p>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 07/07/26 18:20:00</title>
+         <title>Daily Weather Summary as of 07/07/26 18:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
 	        Min outside temperature: 20,9&#176;C at 07:25:11;
@@ -56,7 +56,7 @@
             Max wind :               0,0 m/s from    N/A at 00:00:01;
             Rain today:              0,0 mm
          </description>
-         <pubDate>mar, 07 jul 2026 18:20:00 CEST</pubDate>
+         <pubDate>mar, 07 jul 2026 18:30:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 07/07/26 18:20:00</title>
+         <title>Monthly Weather Summary as of 07/07/26 18:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: 17,6&#176;C at 02/07/26 07:13:15;
@@ -87,7 +87,7 @@
             Max wind :               0,0 m/s from    N/A at 01/07/26 00:00:03;
             Rain total for month:    0,0 mm
          </description>
-         <pubDate>mar, 07 jul 2026 18:20:00 CEST</pubDate>
+         <pubDate>mar, 07 jul 2026 18:30:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   julio 2026<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 07/07/26 18:20:00</title>
+         <title>Yearly Weather Summary as of 07/07/26 18:30:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -116,7 +116,7 @@
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
             Rain total for year:     332,2 mm
          </description>
-         <pubDate>mar, 07 jul 2026 18:20:00 CEST</pubDate>
+         <pubDate>mar, 07 jul 2026 18:30:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
