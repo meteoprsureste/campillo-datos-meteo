@@ -7,31 +7,31 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>mi&#233;, 15 jul 2026 11:50:00 CEST</pubDate>
+      <pubDate>mi&#233;, 15 jul 2026 12:00:00 CEST</pubDate>
 
-      <lastBuildDate>mi&#233;, 15 jul 2026 11:50:00 CEST</lastBuildDate>
+      <lastBuildDate>mi&#233;, 15 jul 2026 12:00:00 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 15/07/26 11:50:00</title>
+         <title>Weather Conditions at 15/07/26 12:00:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
            Outside temperature: 30,8&#176;C; 
            Barometer: 1017,5 mbar; 
            Wind: 0,0 m/s from    N/A; 
            Rain rate: 0,0 mm/hr; 
-           Inside temperature: 28,9&#176;C
+           Inside temperature: 29,0&#176;C
          </description>
-         <pubDate>mi&#233;, 15 jul 2026 11:50:00 CEST</pubDate>
+         <pubDate>mi&#233;, 15 jul 2026 12:00:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                15/07/26 11:50:00<br/>
+             Time:                15/07/26 12:00:00<br/>
              Outside Temperature: 30,8&#176;C<br/>
-             Inside Temperature:  28,9&#176;C<br/>
+             Inside Temperature:  29,0&#176;C<br/>
              Wind Chill:          30,8&#176;C<br/>
              Heat Index:          30,8&#176;C<br/>
              Dewpoint:            11,5&#176;C<br/>
@@ -44,11 +44,11 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 15/07/26 11:50:00</title>
+         <title>Daily Weather Summary as of 15/07/26 12:00:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
 	        Min outside temperature: 18,9&#176;C at 07:26:53;
-         	Max outside temperature: 30,8&#176;C at 11:41:57;
+         	Max outside temperature: 31,1&#176;C at 11:59:34;
 	        Min inside temperature:  28,1&#176;C at 08:38:59;
 	        Max inside temperature:  29,0&#176;C at 11:47:02;
 	        Min barometer:           1015,0 mbar at 00:00:05;
@@ -56,14 +56,14 @@
             Max wind :               0,0 m/s from    N/A at 00:00:03;
             Rain today:              0,0 mm
          </description>
-         <pubDate>mi&#233;, 15 jul 2026 11:50:00 CEST</pubDate>
+         <pubDate>mi&#233;, 15 jul 2026 12:00:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     15 jul 2026<br/>
 	         Min Outside Temperature: 18,9&#176;C at 07:26:53<br/>
-	         Max Outside Temperature: 30,8&#176;C at 11:41:57<br/>
+	         Max Outside Temperature: 31,1&#176;C at 11:59:34<br/>
 	         Min Inside Temperature:  28,1&#176;C at 08:38:59<br/>
 	         Max Inside Temperature:  29,0&#176;C at 11:47:02<br/>
 	         Min Barometer:           1015,0 mbar at 00:00:05<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 15/07/26 11:50:00</title>
+         <title>Monthly Weather Summary as of 15/07/26 12:00:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: 16,3&#176;C at 14/07/26 06:45:26;
@@ -87,7 +87,7 @@
             Max wind :               0,0 m/s from    N/A at 01/07/26 00:00:03;
             Rain total for month:    0,4 mm
          </description>
-         <pubDate>mi&#233;, 15 jul 2026 11:50:00 CEST</pubDate>
+         <pubDate>mi&#233;, 15 jul 2026 12:00:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   julio 2026<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 15/07/26 11:50:00</title>
+         <title>Yearly Weather Summary as of 15/07/26 12:00:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -116,7 +116,7 @@
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
             Rain total for year:     332,6 mm
          </description>
-         <pubDate>mi&#233;, 15 jul 2026 11:50:00 CEST</pubDate>
+         <pubDate>mi&#233;, 15 jul 2026 12:00:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
