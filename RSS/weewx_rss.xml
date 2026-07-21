@@ -7,35 +7,35 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>mar, 21 jul 2026 23:40:00 CEST</pubDate>
+      <pubDate>mar, 21 jul 2026 23:50:00 CEST</pubDate>
 
-      <lastBuildDate>mar, 21 jul 2026 23:40:00 CEST</lastBuildDate>
+      <lastBuildDate>mar, 21 jul 2026 23:50:00 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 21/07/26 23:40:00</title>
+         <title>Weather Conditions at 21/07/26 23:50:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-           Outside temperature: 26,7&#176;C; 
+           Outside temperature: 26,3&#176;C; 
            Barometer: 1014,6 mbar; 
            Wind: 0,0 m/s from    N/A; 
            Rain rate: 0,0 mm/hr; 
            Inside temperature: 28,2&#176;C
          </description>
-         <pubDate>mar, 21 jul 2026 23:40:00 CEST</pubDate>
+         <pubDate>mar, 21 jul 2026 23:50:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                21/07/26 23:40:00<br/>
-             Outside Temperature: 26,7&#176;C<br/>
+             Time:                21/07/26 23:50:00<br/>
+             Outside Temperature: 26,3&#176;C<br/>
              Inside Temperature:  28,2&#176;C<br/>
-             Wind Chill:          26,7&#176;C<br/>
-             Heat Index:          26,9&#176;C<br/>
-             Dewpoint:            14,4&#176;C<br/>
-             Humidity:            47%<br/>
+             Wind Chill:          26,3&#176;C<br/>
+             Heat Index:          26,3&#176;C<br/>
+             Dewpoint:            15,0&#176;C<br/>
+             Humidity:            50%<br/>
              Barometer:           1014,6 mbar<br/>
              Wind:                0,0 m/s from    N/A<br/>
              Rain Rate:           0,0 mm/hr<br/>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 21/07/26 23:40:00</title>
+         <title>Daily Weather Summary as of 21/07/26 23:50:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
 	        Min outside temperature: 16,9&#176;C at 07:15:33;
@@ -56,7 +56,7 @@
             Max wind :               0,0 m/s from    N/A at 00:00:01;
             Rain today:              0,0 mm
          </description>
-         <pubDate>mar, 21 jul 2026 23:40:00 CEST</pubDate>
+         <pubDate>mar, 21 jul 2026 23:50:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 21/07/26 23:40:00</title>
+         <title>Monthly Weather Summary as of 21/07/26 23:50:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: 15,8&#176;C at 18/07/26 07:07:18;
@@ -87,7 +87,7 @@
             Max wind :               0,0 m/s from    N/A at 01/07/26 00:00:03;
             Rain total for month:    0,4 mm
          </description>
-         <pubDate>mar, 21 jul 2026 23:40:00 CEST</pubDate>
+         <pubDate>mar, 21 jul 2026 23:50:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   julio 2026<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 21/07/26 23:40:00</title>
+         <title>Yearly Weather Summary as of 21/07/26 23:50:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -116,7 +116,7 @@
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
             Rain total for year:     332,6 mm
          </description>
-         <pubDate>mar, 21 jul 2026 23:40:00 CEST</pubDate>
+         <pubDate>mar, 21 jul 2026 23:50:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
