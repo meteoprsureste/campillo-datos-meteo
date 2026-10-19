@@ -7,35 +7,35 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>mar, 20 oct 2026 00:00:00 CEST</pubDate>
+      <pubDate>mar, 20 oct 2026 00:10:00 CEST</pubDate>
 
-      <lastBuildDate>mar, 20 oct 2026 00:00:00 CEST</lastBuildDate>
+      <lastBuildDate>mar, 20 oct 2026 00:10:00 CEST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 20/10/26 00:00:00</title>
+         <title>Weather Conditions at 20/10/26 00:10:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-           Outside temperature: 12,6&#176;C; 
+           Outside temperature: 12,5&#176;C; 
            Barometer: 1010,6 mbar; 
            Wind: 0,0 m/s from    N/A; 
            Rain rate: 0,0 mm/hr; 
-           Inside temperature: 19,6&#176;C
+           Inside temperature: 19,5&#176;C
          </description>
-         <pubDate>mar, 20 oct 2026 00:00:00 CEST</pubDate>
+         <pubDate>mar, 20 oct 2026 00:10:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                20/10/26 00:00:00<br/>
-             Outside Temperature: 12,6&#176;C<br/>
-             Inside Temperature:  19,6&#176;C<br/>
-             Wind Chill:          12,6&#176;C<br/>
-             Heat Index:          12,6&#176;C<br/>
+             Time:                20/10/26 00:10:00<br/>
+             Outside Temperature: 12,5&#176;C<br/>
+             Inside Temperature:  19,5&#176;C<br/>
+             Wind Chill:          12,5&#176;C<br/>
+             Heat Index:          12,5&#176;C<br/>
              Dewpoint:            10,9&#176;C<br/>
-             Humidity:            89%<br/>
+             Humidity:            90%<br/>
              Barometer:           1010,6 mbar<br/>
              Wind:                0,0 m/s from    N/A<br/>
              Rain Rate:           0,0 mm/hr<br/>
@@ -44,38 +44,38 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 20/10/26 00:00:00</title>
+         <title>Daily Weather Summary as of 20/10/26 00:10:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-	        Min outside temperature: 8,4&#176;C at 06:32:55;
-         	Max outside temperature: 14,4&#176;C at 18:28:31;
-	        Min inside temperature:  19,2&#176;C at 10:07:59;
-	        Max inside temperature:  21,2&#176;C at 15:50:01;
-	        Min barometer:           1008,9 mbar at 18:58:01;
-	        Max barometer:           1014,8 mbar at 00:06:00;
-            Max wind :               0,0 m/s from    N/A at 00:00:02;
-            Rain today:              1,0 mm
+	        Min outside temperature: 12,4&#176;C at 00:09:00;
+         	Max outside temperature: 12,6&#176;C at 00:00:01;
+	        Min inside temperature:  19,5&#176;C at 00:01:58;
+	        Max inside temperature:  19,6&#176;C at 00:00:01;
+	        Min barometer:           1010,5 mbar at 00:06:00;
+	        Max barometer:           1010,6 mbar at 00:00:01;
+            Max wind :               0,0 m/s from    N/A at 00:00:01;
+            Rain today:              0,0 mm
          </description>
-         <pubDate>mar, 20 oct 2026 00:00:00 CEST</pubDate>
+         <pubDate>mar, 20 oct 2026 00:10:00 CEST</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     19 oct 2026<br/>
-	         Min Outside Temperature: 8,4&#176;C at 06:32:55<br/>
-	         Max Outside Temperature: 14,4&#176;C at 18:28:31<br/>
-	         Min Inside Temperature:  19,2&#176;C at 10:07:59<br/>
-	         Max Inside Temperature:  21,2&#176;C at 15:50:01<br/>
-	         Min Barometer:           1008,9 mbar at 18:58:01<br/>
-	         Max Barometer:           1014,8 mbar at 00:06:00<br/>
-             Max Wind :               0,0 m/s from    N/A at 00:00:02<br/>
-             Rain today:              1,0 mm<br/>
+             Day:                     20 oct 2026<br/>
+	         Min Outside Temperature: 12,4&#176;C at 00:09:00<br/>
+	         Max Outside Temperature: 12,6&#176;C at 00:00:01<br/>
+	         Min Inside Temperature:  19,5&#176;C at 00:01:58<br/>
+	         Max Inside Temperature:  19,6&#176;C at 00:00:01<br/>
+	         Min Barometer:           1010,5 mbar at 00:06:00<br/>
+	         Max Barometer:           1010,6 mbar at 00:00:01<br/>
+             Max Wind :               0,0 m/s from    N/A at 00:00:01<br/>
+             Rain today:              0,0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 20/10/26 00:00:00</title>
+         <title>Monthly Weather Summary as of 20/10/26 00:10:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: 6,4&#176;C at 09/10/26 08:35:07;
@@ -87,7 +87,7 @@
             Max wind :               0,0 m/s from    N/A at 01/10/26 00:00:04;
             Rain total for month:    75,4 mm
          </description>
-         <pubDate>mar, 20 oct 2026 00:00:00 CEST</pubDate>
+         <pubDate>mar, 20 oct 2026 00:10:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   octubre 2026<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 20/10/26 00:00:00</title>
+         <title>Yearly Weather Summary as of 20/10/26 00:10:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -116,7 +116,7 @@
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
             Rain total for year:     412,6 mm
          </description>
-         <pubDate>mar, 20 oct 2026 00:00:00 CEST</pubDate>
+         <pubDate>mar, 20 oct 2026 00:10:00 CEST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
