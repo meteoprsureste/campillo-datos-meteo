@@ -7,87 +7,87 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>mi&#233;, 11 nov 2026 16:10:00 CET</pubDate>
+      <pubDate>mi&#233;, 11 nov 2026 16:20:00 CET</pubDate>
 
-      <lastBuildDate>mi&#233;, 11 nov 2026 16:10:00 CET</lastBuildDate>
+      <lastBuildDate>mi&#233;, 11 nov 2026 16:20:00 CET</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 11/11/26 16:10:00</title>
+         <title>Weather Conditions at 11/11/26 16:20:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-           Outside temperature: 13,3&#176;C; 
-           Barometer: 999,8 mbar; 
+           Outside temperature: 13,2&#176;C; 
+           Barometer: 999,5 mbar; 
            Wind: 0,0 m/s from    N/A; 
-           Rain rate: 0,0 mm/hr; 
-           Inside temperature: 21,0&#176;C
+           Rain rate: 0,7 mm/hr; 
+           Inside temperature: 20,9&#176;C
          </description>
-         <pubDate>mi&#233;, 11 nov 2026 16:10:00 CET</pubDate>
+         <pubDate>mi&#233;, 11 nov 2026 16:20:00 CET</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                11/11/26 16:10:00<br/>
-             Outside Temperature: 13,3&#176;C<br/>
-             Inside Temperature:  21,0&#176;C<br/>
-             Wind Chill:          13,3&#176;C<br/>
-             Heat Index:          13,3&#176;C<br/>
-             Dewpoint:            12,9&#176;C<br/>
-             Humidity:            98%<br/>
-             Barometer:           999,8 mbar<br/>
+             Time:                11/11/26 16:20:00<br/>
+             Outside Temperature: 13,2&#176;C<br/>
+             Inside Temperature:  20,9&#176;C<br/>
+             Wind Chill:          13,2&#176;C<br/>
+             Heat Index:          13,2&#176;C<br/>
+             Dewpoint:            12,7&#176;C<br/>
+             Humidity:            97%<br/>
+             Barometer:           999,5 mbar<br/>
              Wind:                0,0 m/s from    N/A<br/>
-             Rain Rate:           0,0 mm/hr<br/>
+             Rain Rate:           0,7 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 11/11/26 16:10:00</title>
+         <title>Daily Weather Summary as of 11/11/26 16:20:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
-	        Min outside temperature: 13,3&#176;C at 08:16:24;
+	        Min outside temperature: 13,2&#176;C at 16:13:03;
          	Max outside temperature: 14,6&#176;C at 00:00:02;
 	        Min inside temperature:  18,4&#176;C at 05:10:00;
 	        Max inside temperature:  21,5&#176;C at 15:20:00;
-	        Min barometer:           999,7 mbar at 16:07:01;
+	        Min barometer:           999,4 mbar at 16:17:01;
 	        Max barometer:           1009,1 mbar at 00:00:04;
             Max wind :               0,0 m/s from    N/A at 00:00:02;
-            Rain today:              7,2 mm
+            Rain today:              7,4 mm
          </description>
-         <pubDate>mi&#233;, 11 nov 2026 16:10:00 CET</pubDate>
+         <pubDate>mi&#233;, 11 nov 2026 16:20:00 CET</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     11 nov 2026<br/>
-	         Min Outside Temperature: 13,3&#176;C at 08:16:24<br/>
+	         Min Outside Temperature: 13,2&#176;C at 16:13:03<br/>
 	         Max Outside Temperature: 14,6&#176;C at 00:00:02<br/>
 	         Min Inside Temperature:  18,4&#176;C at 05:10:00<br/>
 	         Max Inside Temperature:  21,5&#176;C at 15:20:00<br/>
-	         Min Barometer:           999,7 mbar at 16:07:01<br/>
+	         Min Barometer:           999,4 mbar at 16:17:01<br/>
 	         Max Barometer:           1009,1 mbar at 00:00:04<br/>
              Max Wind :               0,0 m/s from    N/A at 00:00:02<br/>
-             Rain today:              7,2 mm<br/>
+             Rain today:              7,4 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 11/11/26 16:10:00</title>
+         <title>Monthly Weather Summary as of 11/11/26 16:20:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: -0,2&#176;C at 06/11/26 07:41:55;
          	Max outside temperature: 21,8&#176;C at 01/11/26 16:27:15;
 	        Min inside temperature:  14,1&#176;C at 06/11/26 08:52:59;
 	        Max inside temperature:  21,5&#176;C at 11/11/26 15:20:00;
-	        Min barometer:           999,7 mbar at 11/11/26 16:07:01;
+	        Min barometer:           999,4 mbar at 11/11/26 16:17:01;
 	        Max barometer:           1021,6 mbar at 07/11/26 09:36:01;
             Max wind :               0,0 m/s from    N/A at 01/11/26 00:00:04;
-            Rain total for month:    22,4 mm
+            Rain total for month:    22,6 mm
          </description>
-         <pubDate>mi&#233;, 11 nov 2026 16:10:00 CET</pubDate>
+         <pubDate>mi&#233;, 11 nov 2026 16:20:00 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   noviembre 2026<br/>
@@ -95,16 +95,16 @@
 	         Min Outside Temperature: -0,2&#176;C at 06/11/26 07:41:55<br/>
 	         Max Inside Temperature:  21,5&#176;C at 11/11/26 15:20:00<br/>
 	         Min Inside Temperature:  14,1&#176;C at 06/11/26 08:52:59<br/>
-	         Min Barometer:           999,7 mbar at 11/11/26 16:07:01<br/>
+	         Min Barometer:           999,4 mbar at 11/11/26 16:17:01<br/>
 	         Max Barometer:           1021,6 mbar at 07/11/26 09:36:01<br/>
              Max Wind :               0,0 m/s from    N/A at 01/11/26 00:00:04<br/>
-             Rain total for month:    22,4 mm<br/>
+             Rain total for month:    22,6 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 11/11/26 16:10:00</title>
+         <title>Yearly Weather Summary as of 11/11/26 16:20:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -114,9 +114,9 @@
 	        Min barometer:           986,0 mbar at 05/02/26 09:40:00;
 	        Max barometer:           1030,2 mbar at 21/02/26 11:19:03;
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
-            Rain total for year:     435,0 mm
+            Rain total for year:     435,2 mm
          </description>
-         <pubDate>mi&#233;, 11 nov 2026 16:10:00 CET</pubDate>
+         <pubDate>mi&#233;, 11 nov 2026 16:20:00 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
@@ -127,7 +127,7 @@
 	         Min Barometer:           986,0 mbar at 05/02/26 09:40:00<br/>
 	         Max Barometer:           1030,2 mbar at 21/02/26 11:19:03<br/>
              Max Wind :               0,0 m/s from    N/A at 01/01/26 00:00:04<br/>
-             Rain total for year:     435,0 mm<br/>
+             Rain total for year:     435,2 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
