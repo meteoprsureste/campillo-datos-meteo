@@ -7,29 +7,29 @@
       <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>dom, 22 nov 2026 00:30:00 CET</pubDate>
+      <pubDate>dom, 22 nov 2026 00:40:00 CET</pubDate>
 
-      <lastBuildDate>dom, 22 nov 2026 00:30:00 CET</lastBuildDate>
+      <lastBuildDate>dom, 22 nov 2026 00:40:00 CET</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.9.1</generator>
       <ttl>10,000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 22/11/26 00:30:00</title>
+         <title>Weather Conditions at 22/11/26 00:40:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
            Outside temperature: 10,5&#176;C; 
            Barometer: 1014,7 mbar; 
            Wind: 0,0 m/s from    N/A; 
-           Rain rate: 3,3 mm/hr; 
+           Rain rate: 1,1 mm/hr; 
            Inside temperature: 21,8&#176;C
          </description>
-         <pubDate>dom, 22 nov 2026 00:30:00 CET</pubDate>
+         <pubDate>dom, 22 nov 2026 00:40:00 CET</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                22/11/26 00:30:00<br/>
+             Time:                22/11/26 00:40:00<br/>
              Outside Temperature: 10,5&#176;C<br/>
              Inside Temperature:  21,8&#176;C<br/>
              Wind Chill:          10,5&#176;C<br/>
@@ -38,13 +38,13 @@
              Humidity:            96%<br/>
              Barometer:           1014,7 mbar<br/>
              Wind:                0,0 m/s from    N/A<br/>
-             Rain Rate:           3,3 mm/hr<br/>
+             Rain Rate:           1,1 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 22/11/26 00:30:00</title>
+         <title>Daily Weather Summary as of 22/11/26 00:40:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html</link>
          <description>
 	        Min outside temperature: 10,4&#176;C at 00:11:10;
@@ -52,11 +52,11 @@
 	        Min inside temperature:  21,8&#176;C at 00:00:04;
 	        Max inside temperature:  21,9&#176;C at 00:00:04;
 	        Min barometer:           1014,3 mbar at 00:00:06;
-	        Max barometer:           1014,8 mbar at 00:21:02;
+	        Max barometer:           1014,8 mbar at 00:38:02;
             Max wind :               0,0 m/s from    N/A at 00:00:04;
             Rain today:              0,6 mm
          </description>
-         <pubDate>dom, 22 nov 2026 00:30:00 CET</pubDate>
+         <pubDate>dom, 22 nov 2026 00:40:00 CET</pubDate>
 	     <geo:lat>39.19</geo:lat>
     	 <geo:long>-3.3</geo:long>
  		 <content:encoded><![CDATA[
@@ -67,7 +67,7 @@
 	         Min Inside Temperature:  21,8&#176;C at 00:00:04<br/>
 	         Max Inside Temperature:  21,9&#176;C at 00:00:04<br/>
 	         Min Barometer:           1014,3 mbar at 00:00:06<br/>
-	         Max Barometer:           1014,8 mbar at 00:21:02<br/>
+	         Max Barometer:           1014,8 mbar at 00:38:02<br/>
              Max Wind :               0,0 m/s from    N/A at 00:00:04<br/>
              Rain today:              0,6 mm<br/>
         </p>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 22/11/26 00:30:00</title>
+         <title>Monthly Weather Summary as of 22/11/26 00:40:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/month.html</link>
          <description>
 	        Min outside temperature: -0,2&#176;C at 06/11/26 07:41:55;
@@ -87,7 +87,7 @@
             Max wind :               0,0 m/s from    N/A at 01/11/26 00:00:04;
             Rain total for month:    67,4 mm
          </description>
-         <pubDate>dom, 22 nov 2026 00:30:00 CET</pubDate>
+         <pubDate>dom, 22 nov 2026 00:40:00 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   noviembre 2026<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 22/11/26 00:30:00</title>
+         <title>Yearly Weather Summary as of 22/11/26 00:40:00</title>
          <link>http://pruebatiemposureste.atwebpages.com/meteorpi/index.html/year.html</link>
          <description>
 	        Min outside temperature: -5,4&#176;C at 06/01/26 07:26:21;
@@ -116,7 +116,7 @@
             Max wind :               0,0 m/s from    N/A at 01/01/26 00:00:04;
             Rain total for year:     480,0 mm
          </description>
-         <pubDate>dom, 22 nov 2026 00:30:00 CET</pubDate>
+         <pubDate>dom, 22 nov 2026 00:40:00 CET</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2026<br/>
